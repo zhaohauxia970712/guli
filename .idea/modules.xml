@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/guli.iml" filepath="$PROJECT_DIR$/.idea/guli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_common/guli_common.iml" filepath="$PROJECT_DIR$/guli_parent/guli_common/guli_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_oss/guli_oss.iml" filepath="$PROJECT_DIR$/guli_parent/guli_oss/guli_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_parent.iml" filepath="$PROJECT_DIR$/guli_parent/guli_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_poi/guli_poi.iml" filepath="$PROJECT_DIR$/guli_parent/guli_poi/guli_poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli_parent/guli_teacher/guli_teacher.iml" filepath="$PROJECT_DIR$/guli_parent/guli_teacher/guli_teacher.iml" />
+    </modules>
+  </component>
+</project>
